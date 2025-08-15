@@ -22,6 +22,28 @@ Built with **IBM Cloud Lite**, **IBM Granite**, **AI/ML**, and **Natural Languag
 - **Data Sources**: WHO, Government health datasets  
 
 ---
+## 📂 Folder Structure
+
+Agentic-AI-Health-Symptom-Checker
+┣ 📜 app.py # Main Python application file
+┣ 📜 requirements.txt # Dependencies list
+┣ 📜 README.md # Project documentation
+┣ 📜 dataset.csv # Example dataset
+┣ 📂 static/ # Static files (CSS, JS, images)
+┃ ┗ 📜 style.css
+┗ 📂 templates/ # HTML templates (if using Flask/Django)
+┃ ┗ 📜 index.html
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📂 Project Structure
 
